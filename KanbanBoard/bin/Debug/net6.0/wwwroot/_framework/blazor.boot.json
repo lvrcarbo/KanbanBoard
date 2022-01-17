@@ -196,16 +196,16 @@
       "mscorlib.dll": "sha256-+5VU+MYaTQMTlRe9QKobEjWZWv6I9teAGdNndWSBqWE=",
       "netstandard.dll": "sha256-E5RFhGIaDH5QM6BEbFUuHU8U9wP6N6jbo5MCttzLOCM=",
       "System.Private.CoreLib.dll": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
-      "KanbanBoard.dll": "sha256-a5BF9YyUOHnuRLOiPg+KKHDbfqDG7eEsCXgf8cjMAgI="
+      "KanbanBoard.dll": "sha256-yQhXw0J7EwGzvIMyJ4C25qGn3yPM3wWUspzGwlxj6bo="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "KanbanBoard.pdb": "sha256-treSQPCx\/YAL6yW+7MuKfoUlEtYihn8NdR\/37wExOmI="
+      "KanbanBoard.pdb": "sha256-ylRMWyiK7PonBsldSf4mW54FK351yBrP+RQMsK0go5M="
     },
     "runtime": {
-      "dotnet.6.0.1.aao8mfr1om.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",
+      "dotnet.6.0.1.lh435ft3bs.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",
       "dotnet.timezones.blat": "sha256-2kYo2V\/aZ7htYEvY5PVJlrMYhFf1jH8\/VS+SP7B7QUg=",
       "dotnet.wasm": "sha256-bxECtWW45VwGuhtEvznFHHDNj4dgblnpcjcqKR44GgE=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
